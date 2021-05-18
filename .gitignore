@@ -349,3 +349,5 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 cocos2d/
+proj.win32/Release.win32/
+proj.win32/Debug.win32/
